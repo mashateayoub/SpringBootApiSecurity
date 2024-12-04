@@ -28,7 +28,7 @@ This project is a Spring Boot application that secures APIs using JSON Web Token
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/security-api.git
+   git clone https://github.com/mashateayoub/SpringBootApiSecurity.git
    cd security-api
    ```
 
